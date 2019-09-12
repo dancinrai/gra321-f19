@@ -1,4 +1,4 @@
-/*Styles for Project 4*/
+/*Styles for Project 5*/
 
 body {
     letter-spacing: .5px;
@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-    color: aqua;
+    color: darkmagenta;
     font-weight: 500;
 }
 
@@ -19,7 +19,7 @@ h2 {
 }
 
 img {
-    max-width: 100%
+    max-width: 100% ;
 }
 
 ul {
