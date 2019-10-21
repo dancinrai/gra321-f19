@@ -1,0 +1,10 @@
+/*Styles for Project 6*/
+body {
+    background-color: #466365;
+    letter-spacing: .5px;
+    line-height: 1.5;
+    padding: 10%;
+    font-family: proxima-nova, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
