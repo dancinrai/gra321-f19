@@ -8,3 +8,23 @@ body {
     font-weight: 600;
     font-style: normal;
 }
+
+h1 { 
+    color:#F2ED6F;
+    }
+
+h2 {
+    color:#C67F89;
+}
+
+h3 {
+    color:#C67F89;
+}
+
+h4 {
+    color:#F2ED6F;
+}
+
+p {
+    color:white; 
+}
