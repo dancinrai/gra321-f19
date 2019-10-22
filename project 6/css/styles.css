@@ -3,10 +3,21 @@ body {
     background-color: #466365;
     letter-spacing: .5px;
     line-height: 1.5;
-    padding: 10%;
+    padding: 5%;
     font-family: "futura";
     font-weight: 600;
     font-style: normal;
+    text-align: center;
+}
+button {
+  background-color: #C67F89;
+  border: none;
+  color: white;
+  padding: 5%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
 h1 { 
