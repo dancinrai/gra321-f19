@@ -3,31 +3,35 @@ body {
     background-color: #466365;
     letter-spacing: .5px;
     line-height: 1.5;
-    padding: 5%;
+    padding: 25%;
     font-family: "futura";
     font-weight: 600;
     font-style: normal;
     text-align: center;
 }
 button {
-  background-color: #C67F89;
-  border: none;
-  color: white;
-  padding: 5%;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
+    background-color: #C67F89;
+    background-position: center;
+    border: none;
+    color: white;
+    padding: 1rem; align-items: stretch;
+    position:relative;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: "futura";
+    width: auto;
 }
 
 h1 { 
     color:#F2ED6F;
     background: #C67F89;
+    background-position: center;
     position: static;
-    width: 100%;
+    width: 95%;
     top: 0;
+    text-align: center;
     left: 0;
-    padding: 1rem;
     }
 
 h2 {
