@@ -8,17 +8,25 @@ body {
     text-align: center;
 }
 
-button {
+.button {
     background-color: #C67F89;
     background-position: center;
-    border: none;
     color: white;
-    padding: 1rem;
-    position:relative;
-    text-align: center;
-    text-decoration: none;
     font-size: 25px;
     font-family: "futura";
+    padding: 1rem;
+}
+
+.nav {
+    border: none;
+    padding: 1rem;
+    position:fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+    text-decoration:none;
+    width: 100%;
+    z-index: 100;
 }
 
 h1 { 
