@@ -1,34 +1,28 @@
 /*Styles for Project 6*/
 body {
     background-color: #466365;
-    letter-spacing: .5px;
-    line-height: 1.5;
-    padding: 25%;
     font-family: "futura";
     font-weight: 600;
     font-style: normal;
     text-align: center;
 }
+
 button {
     background-color: #C67F89;
     background-position: center;
     border: none;
     color: white;
-    padding: 1rem; align-items: stretch;
+    padding: 1rem;
     position:relative;
     text-align: center;
     text-decoration: none;
     font-size: 16px;
     font-family: "futura";
-    width: auto;
 }
 
 h1 { 
     color:#F2ED6F;
-    background: #C67F89;
-    background-position: center;
     position: static;
-    width: 95%;
     top: 0;
     text-align: center;
     left: 0;
