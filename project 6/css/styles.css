@@ -1,4 +1,8 @@
 /*Styles for Project 6*/
+@-ms-viewport{
+  width:auto;
+}
+
 body {
     background-color: #466365;
     font-family: "futura";
@@ -6,6 +10,8 @@ body {
     font-style: normal;
     padding: 1rem;
     text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 .button {
@@ -15,6 +21,7 @@ body {
     font-size: 25px;
     font-family: "futura";
     padding: 1rem;
+    margin-left: 1px;
 }
 
 .nav {
