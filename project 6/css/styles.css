@@ -4,6 +4,7 @@ body {
     font-family: "futura";
     font-weight: 600;
     font-style: normal;
+    padding: 1rem;
     text-align: center;
 }
 
@@ -16,16 +17,15 @@ button {
     position:relative;
     text-align: center;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 25px;
     font-family: "futura";
 }
 
 h1 { 
     color:#F2ED6F;
-    position: static;
-    top: 0;
+    font-size: 75px;
+    position: relative;
     text-align: center;
-    left: 0;
     }
 
 h2 {
