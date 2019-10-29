@@ -20,28 +20,37 @@ body {
     font-family: "futura";
     padding: 1rem;
     margin-left: 1px;
+    width: 100%;
 }
 
 .nav {
-    @-ms-viewport {
-  width: device-width;
-}
     border: none;
     padding: 1rem;
-    position:fixed;
+    position: fixed;
     top: 0;
     left: 0;
     text-align: center;
-    text-decoration:none;
+    text-decoration: none;
     width: 100%;
     z-index: 100;
 }
 
-h1 { 
+h1 {
+    align-content: center;
+    border: none;
     color:#F2ED6F;
     font-size: 75px;
+    padding: 1rem;
+    margin-top: 4rem;
+    margin-left: 0%;
+    margin-right: 10%;
+    top: 0;
+    left: 0;
     position: relative;
     text-align: center;
+    text-decoration: none;
+    width: 100%;
+    z-index: 100;
     }
 
 h2 {
