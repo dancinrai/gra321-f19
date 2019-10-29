@@ -1,6 +1,6 @@
 /*Styles for Project 6*/
-@-ms-viewport{
-  width:auto;
+@-ms-viewport {
+  width: device-width;
 }
 
 body {
@@ -15,8 +15,6 @@ body {
 }
 
 .button {
-    background-color: #C67F89;
-    background-position: center;
     color: white;
     font-size: 25px;
     font-family: "futura";
@@ -25,6 +23,9 @@ body {
 }
 
 .nav {
+    @-ms-viewport {
+  width: device-width;
+}
     border: none;
     padding: 1rem;
     position:fixed;
