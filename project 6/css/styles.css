@@ -3,12 +3,15 @@
   width: device-width;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: #466365;
     font-family: "futura";
     font-weight: 600;
     font-style: normal;
-    padding: 100;
     text-align: center;
 }
 
@@ -19,12 +22,15 @@ body {
     font-family: "futura";
     margin-left: 10px;
     margin-right: 10px;
-    width: 100%;
+/*    width: 100%;*/
 }
 
 .nav {
     background-color: #C67F89;
     border: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     padding: 1rem;
     position: fixed;
     top: 0;
