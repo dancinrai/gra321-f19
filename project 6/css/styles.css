@@ -24,7 +24,9 @@ body {
 }
 
 .nav {
+    background-color: #C67F89;
     border: none;
+    padding: 1rem;
     position: fixed;
     top: 0;
     left: 0;
