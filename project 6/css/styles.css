@@ -1,7 +1,5 @@
 /*Styles for Project 6*/
-@-ms-viewport {
-  width: device-width;
-}
+@media screen and (max-width: 600px){.h1 }
 
 body {
     background-color: #466365;
