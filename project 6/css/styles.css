@@ -44,8 +44,7 @@ body {
 img {
     max-width: 75%;
     float: right;
-    margin-bottom: 8rem;
-    padding-left: 2rem;
+    margin-bottom: 20px;
 }
 
 h1 {
