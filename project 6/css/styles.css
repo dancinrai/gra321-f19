@@ -48,7 +48,15 @@ body {
 
 .image2 {
     max-width: 50%;
-    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration:underline;
 }
 
 h1 {
