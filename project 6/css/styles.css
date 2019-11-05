@@ -41,10 +41,14 @@ body {
     z-index: 100;
 }
 
-img {
-    max-width: 75%;
-    float: right;
+.image1 {
+    max-width: 100%;
     margin-bottom: 20px;
+}
+
+.image2 {
+    max-width: 50%;
+    
 }
 
 h1 {
@@ -64,7 +68,7 @@ h2 {
 }
 
 .info {
-    text-align: left;
+    text-align: center;
     display: flex;
     flex-flow:column;
     line-height: 1rem;
