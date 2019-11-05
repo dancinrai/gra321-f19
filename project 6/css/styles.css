@@ -47,7 +47,7 @@ body {
 }
 
 .image2 {
-    max-width: 50%;
+    max-width: 100%;
 }
 
 a {
@@ -73,31 +73,31 @@ h1 {
 
 h2 {
     color:#C67F89;
+    margin-top: 50px;
 }
 
 .info {
     text-align: center;
-    display: flex;
-    flex-flow:column;
-    line-height: 1rem;
+    line-height: 40px;
 }
 
 .fall {
-    margin-top: 50px;
-    text-align: left;
-    display: flex;
-    flex-flow:column;
-    line-height: 1rem;
+    text-align: center;
+    line-height: 10px;
 }
 
 h3 {
     color:#C67F89;
+    margin-top: 50px;
 }
 
 h4 {
     color:#F2ED6F;
+    margin-top: 50px;
 }
 
 p {
     color:white;
+    line-height: 10px;
+
 }
